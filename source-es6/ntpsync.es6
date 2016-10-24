@@ -1,4 +1,4 @@
-const ntpBurstRequest = require('./ntpBurstRequest');
+const ntpBurstRequest = require('./burst_request');
 
 /**
  * Creates a promise

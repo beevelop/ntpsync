@@ -1,5 +1,5 @@
 const Q = require('q');
-const ntpSingleRequest = require('./ntpSingleRequest');
+const ntpSingleRequest = require('./single_request');
 
 /**
  * Creates a promise that resolves whenever iTimeMS milliseconds pass.
